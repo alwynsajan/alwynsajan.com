@@ -98,12 +98,7 @@ body{
 .borderleft{
 	border-left:3px solid red;
 }
-#backward{
-float: right;
-}
-#forward{
-float: left;
-}
+
 #image_display{
 	margin-top: 10px}
 #image{
